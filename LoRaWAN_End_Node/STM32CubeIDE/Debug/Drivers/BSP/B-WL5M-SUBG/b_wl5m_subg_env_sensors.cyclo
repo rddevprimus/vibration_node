@@ -1,0 +1,10 @@
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:477:9:STTS22H_0_Probe	7
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:89:9:BSP_ENV_SENSOR_Init	11
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:182:9:BSP_ENV_SENSOR_DeInit	3
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:210:9:BSP_ENV_SENSOR_GetCapabilities	3
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:238:9:BSP_ENV_SENSOR_ReadID	3
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:268:9:BSP_ENV_SENSOR_Enable	4
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:308:9:BSP_ENV_SENSOR_Disable	4
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:349:9:BSP_ENV_SENSOR_GetOutputDataRate	4
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:390:9:BSP_ENV_SENSOR_SetOutputDataRate	4
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_env_sensors.c:431:9:BSP_ENV_SENSOR_GetValue	4

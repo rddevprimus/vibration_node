@@ -1,0 +1,16 @@
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:906:13:I2C_Compute_PRESC_SCLDEL_SDADEL	36	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:991:17:I2C_Compute_SCLL_SCLH	72	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:868:17:I2C_GetTiming	16	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:725:13:I2C2_MspInit	48	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:765:13:I2C2_MspDeInit	8	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:787:16:I2C2_WriteReg	24	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:829:16:I2C2_ReadReg	24	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:251:9:BSP_I2C2_DeInit	8	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:283:9:BSP_I2C2_WriteReg	16	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:296:9:BSP_I2C2_ReadReg	16	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:309:9:BSP_I2C2_WriteReg16	16	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:322:9:BSP_I2C2_ReadReg16	16	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:333:9:BSP_I2C2_IsReady	8	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:550:9:BSP_GetTick	8	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:615:26:MX_I2C2_Init	8	static
+C:/Users/Nakor/STM32Cube/Example/LoRaWAN_End_Node/Drivers/BSP/B-WL5M-SUBG/b_wl5m_subg_bus.c:200:9:BSP_I2C2_Init	8	static

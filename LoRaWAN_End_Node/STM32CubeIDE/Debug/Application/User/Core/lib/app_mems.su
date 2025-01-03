@@ -1,0 +1,10 @@
+../Application/User/Core/lib/app_mems.c:54:6:MX_mem_sensor	16	static
+../Application/User/Core/lib/app_mems.c:63:6:Accelero_Sensor_Handler	8	static
+../Application/User/Core/lib/app_mems.c:78:6:Gyro_Sensor_Handler	8	static
+../Application/User/Core/lib/app_mems.c:95:6:Init_Sensors	16	static
+../Application/User/Core/lib/app_mems.c:112:6:Mems_Start_req	0	static
+../Application/User/Core/lib/app_mems.c:121:6:calculateMagnitude	32	static
+../Application/User/Core/lib/app_mems.c:176:6:Process_FFT_Input_buffer	24	static
+../Application/User/Core/lib/app_mems.c:200:6:Cal_Rms_value	32	static
+../Application/User/Core/lib/app_mems.c:222:6:Cal_Rms_velocity	64	static
+../Application/User/Core/lib/app_mems.c:130:6:Mems_get_sampling_handler	16	static
